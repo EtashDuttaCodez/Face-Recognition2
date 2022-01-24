@@ -1,0 +1,19 @@
+body{
+    color:white;
+    background-size: cover;
+    background-position:center;
+}
+.heading{
+    width:70%;
+    font-size:22px;
+    font-weight: bolder;
+}
+.name_of_objects,#result_face_name,#result_face_accuracy{
+    color: rgb(241, 133, 133);
+    font-size: 20pxS;
+}
+#camera,#result{
+    border:2px dashed rgb(255, 3, 3) ;
+    width:350px;
+    height:300px;
+}
